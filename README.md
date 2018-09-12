@@ -19,9 +19,7 @@ Running Locally
 
         $ docker-compose up -d
 
-4.  View the UI
-
-    - Go to http://localhost:8080
+4.  Go to http://localhost:8080
 
 5.  Stop Airflow 
 
